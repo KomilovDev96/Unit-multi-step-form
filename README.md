@@ -1,2 +1,2 @@
 # Unit-multi-step-form
-Unit-multi-step-form TypeScrpt ReactJs
+Unit-multi-step-form  ReactJs
